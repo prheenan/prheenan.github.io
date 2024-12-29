@@ -2,7 +2,7 @@
 
 Thanks for your interest in my projects! Here are a few of my favorites:
 
-- [dhgf (Damn Good Hill Fit)](https://github.com/prheenan/dghf), a fast, robust, customizable [Hill equation](https://en.wikipedia.org/wiki/Hill_equation_(biochemistry)) fitter
+- [dghf (Damn Good Hill Fit)](https://github.com/prheenan/dghf), a fast, robust, customizable [Hill equation](https://en.wikipedia.org/wiki/Hill_equation_(biochemistry)) fitter
 
 ![Animation of hill fits](assets/img/dghf_gallery.gif)
 
