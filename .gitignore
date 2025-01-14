@@ -1,4 +1,5 @@
 # PRH ignore
+.idea/*
 \#*
 .DS_Store
 *.*~
