@@ -1,4 +1,6 @@
-# Selected projects
+# Patrick's portfolio
+
+##  Selected projects
 
 Thanks for your interest in my projects! Here are a few of my favorites:
 
